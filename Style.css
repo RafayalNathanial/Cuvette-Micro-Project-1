@@ -106,4 +106,5 @@ footer div ul li {
     background-color: black;
     color: white;
     border-radius: 5px;
+    cursor: pointer;
 }
