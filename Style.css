@@ -23,6 +23,7 @@ body {
 .left-side {
     margin: 2px;
     padding: 3px;
+    width: 50vw;
 }
 
 .heading {
